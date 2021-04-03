@@ -64,9 +64,3 @@ function functionQ() {
     }
   }
 }
-
-
-
-
-
-
